@@ -5,11 +5,12 @@
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708251629/Github/Annimate.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=&label=Profile%20views&color=0e75b6&style=flat" alt="pa1mekala37" /> </p>
+
+<p align="left"> <img <p align="left"> <img src="https://komarev.com/ghpvc/?username=pa1mekala37&label=Profile%20views&color=0e75b6&style=flat" alt="MasaniRama" /> </p> </p>
 
 
 
-<p align="left"> <a href="https://twitter.com/iampvn37" target="blank"><img src="https://img.shields.io/twitter/follow/iampvn37?logo=twitter&style=for-the-badge" alt="iampvn37" /></a> </p>
+<p align="left"> <a href="https://twitter.com/MasaniRama" target="blank"><img src="https://img.shields.io/twitter/follow/MasaniRama?logo=twitter&style=for-the-badge" alt="iampvn37" /></a> </p>
 
 
 
@@ -42,12 +43,14 @@
 
 <p align="left">
 
-<a href="https://twitter.com/iampvn37" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-icon-square-logo-108D17D373-seeklogo.com.png" alt="iampvn37" height="40" width="40" /></a>
+<a href="https://twitter.com/MasaniRama
+" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-icon-square-logo-108D17D373-seeklogo.com.png" alt="MasaniRama" height="40" width="40" /></a>
 
-<a href="https://linkedin.com/in/pavan-mekala-5233b1202" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="http://www.linkedin.com/in/pavan-mekala-5233b1202" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/rama-gopala-krishna-masani-81a523271/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/rama-gopala-krishna-masani-81a523271/" height="40" width="40" /></a>
 
+<a href="https://www.hackerrank.com/profile/ramagopalakrish2" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="@Rama Gopala Krishna Masani" height="40" width="40" margin="5"/></a>
 
-<a href="https://www.hackerrank.com/@pavanmekala72826" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="@pavanmekala72826" height="40" width="40" margin="5"/></a>
+<a href="https://www.instagram.com/ramgopalmasani/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Rama gopala krishna" height="40" width="40" /></a>
 
 
 </p>
@@ -76,7 +79,7 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242679/Github/Pandas.png" alt="Pandas" width="100" height="60"/> </a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242679/Github/Matplotlib.png" alt="Matplotlib" width="100" height="60"/> </a>
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242678/Github/Scikitlearn.png" alt="Scikitlearn" width="100" height="60"/> </a>
-<a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242678/Github/Scipy.png" alt="Scipy" width="140" height="60"/> </a>
+<a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242678/Github/Scipy.png" alt="Scipy" width="100" height="60"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242678/Github/Seaborn.webp" alt="Seaborn" width="60" height="60"/> </a>
 
 
@@ -84,6 +87,7 @@
 
 
 
+<p><img align="left" src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242679/Github/jupyter.png" alt="pa1mekala37" width="50" height="50"//></p>
 
 
 
