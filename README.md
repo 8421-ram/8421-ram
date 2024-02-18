@@ -87,8 +87,6 @@
 
 
 
-<p><img align="left" src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242679/Github/jupyter.png" alt="pa1mekala37" width="50" height="50"//></p>
-
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pa1mekala37&show_icons=true&locale=en" alt="pa1mekala37" /></p>
