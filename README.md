@@ -3,23 +3,10 @@
 <h3 align="center">A passionate DATA ANALYTICS  from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708251629/Github/Annimate.gif">
-
-
-
 <p align="left"> <img <p align="left"> <img src="https://komarev.com/ghpvc/?username=8421-ram&label=Profile%20views&color=0e75b6&style=flat" alt="MasaniRama" /> </p> </p>
-
-
-
 <p align="left"> <a href="https://twitter.com/MasaniRama" target="blank"><img src="https://img.shields.io/twitter/follow/MasaniRama?logo=twitter&style=for-the-badge" alt="iampvn37" /></a> </p>
 
-
-
 ## About Me :
-
-
-
-<!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
-
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 
 
@@ -32,30 +19,20 @@
 
 • 💬 Contact me at <a href="https://www.linkedin.com/in/rama-gopala-krishna-masani-81a523271/"><b>Iam RAMA GOPALA KRISHNA MASANI</b></a><br/>
 
-• 📫 Reach me at pavanmekala0129@gmail.com<br/>
+• 📫 Reach me at ramagopalakrishna7818@gmail.com<br/>
 
 </span>
-
-
 <br/>
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-
 <a href="https://twitter.com/MasaniRama
 " target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-icon-square-logo-108D17D373-seeklogo.com.png" alt="MasaniRama" height="40" width="40" /></a>
-
 <a href="https://www.linkedin.com/in/rama-gopala-krishna-masani-81a523271/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/rama-gopala-krishna-masani-81a523271/" height="40" width="40" /></a>
-
 <a href="https://www.hackerrank.com/profile/ramagopalakrish2" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="@Rama Gopala Krishna Masani" height="40" width="40" margin="5"/></a>
-
 <a href="https://www.instagram.com/ramgopalmasani/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Rama gopala krishna" height="40" width="40" /></a>
-
-
 </p>
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -76,10 +53,10 @@
 <p align="left"> 
 
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242679/Github/Numpy.png" alt="Numpy" width="70" height="60"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242679/Github/Pandas.png" alt="Pandas" width="100" height="60"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242679/Github/Pandas.png" alt="Pandas" width="110" height="60"/> </a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242679/Github/Matplotlib.png" alt="Matplotlib" width="100" height="60"/> </a>
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242678/Github/Scikitlearn.png" alt="Scikitlearn" width="100" height="60"/> </a>
-<a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242678/Github/Scipy.png" alt="Scipy" width="100" height="60"/> </a>
+<a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242678/Github/Scipy.png" alt="Scipy" width="150" height="60"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242678/Github/Seaborn.webp" alt="Seaborn" width="60" height="60"/> </a>
 
 
@@ -89,9 +66,9 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pa1mekala37&show_icons=true&locale=en" alt="pa1mekala37" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=8421-ram&show_icons=true&locale=en" alt="8421-ram" /></p>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pa1mekala37&" alt="pa1mekala37" /></p>       
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=8421-ram&" alt="8421-ram" /></p>       
 
