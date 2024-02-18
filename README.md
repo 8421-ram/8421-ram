@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate DATA ANALYTICS  from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2918596/screenshots/6783174/seo.gif">
+<img align="right" alt="coding" width="400" src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708251629/Github/Annimate.gif">
 
 
 
@@ -85,7 +85,6 @@
 
 
 
-<p><img align="left" src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242679/Github/jupyter.png" alt="pa1mekala37" width="50" height="50"//></p>
 
 
 
