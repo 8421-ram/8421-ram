@@ -5,7 +5,6 @@
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708251629/Github/Annimate.gif">
 
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=&label=Profile%20views&color=0e75b6&style=flat" alt="pa1mekala37" /> </p>
 
 
@@ -77,7 +76,7 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242679/Github/Pandas.png" alt="Pandas" width="100" height="60"/> </a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242679/Github/Matplotlib.png" alt="Matplotlib" width="100" height="60"/> </a>
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242678/Github/Scikitlearn.png" alt="Scikitlearn" width="100" height="60"/> </a>
-<a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242678/Github/Scipy.png" alt="Scipy" width="120" height="60"/> </a>
+<a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242678/Github/Scipy.png" alt="Scipy" width="140" height="60"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242678/Github/Seaborn.webp" alt="Seaborn" width="60" height="60"/> </a>
 
 
