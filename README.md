@@ -43,8 +43,7 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242678/Github/Probability%20Statistics.jpg" alt="Probability Statistics" width="60" height="60"/> </a> 
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242678/Github/Tableau.jpg" alt="Tableau" width="60" height="60"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242678/Github/Meachine%20Learning.png" alt="Tableau" width="60" height="60"/> </a>
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242677/Github/R.jpg" alt="Tableau" width="50" height="60"/> </a>
-<a href="https://www.epa.gov/caddis-vol4/exploratory-data-analysis" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708255167/Github/EDA.png" alt="EDA" width="100" height="60"/> </a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242677/Github/R.jpg" alt="Tableau" width="60" height="50"/> </a>
 </p>
 
 
@@ -58,7 +57,7 @@
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242678/Github/Scikitlearn.png" alt="Scikitlearn" width="100" height="60"/> </a>
 <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242678/Github/Scipy.png" alt="Scipy" width="150" height="60"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242678/Github/Seaborn.webp" alt="Seaborn" width="60" height="60"/> </a>
-
+<a href="https://www.epa.gov/caddis-vol4/exploratory-data-analysis" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708255167/Github/EDA.png" alt="EDA" width="150" height="60"/> </a>
 
 </p>
 
