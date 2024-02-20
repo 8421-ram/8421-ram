@@ -32,7 +32,6 @@
 <a href="https://twitter.com/MasaniRama
 " target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-icon-square-logo-108D17D373-seeklogo.com.png" alt="MasaniRama" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/rama-gopala-krishna-masani-81a523271/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/rama-gopala-krishna-masani-81a523271/" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/ramagopalakrish2" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="@Rama Gopala Krishna Masani" height="40" width="40" margin="5"/></a>
 <a href="https://www.instagram.com/ramgopalmasani/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Rama gopala krishna" height="40" width="40" /></a>
 </p>
 
