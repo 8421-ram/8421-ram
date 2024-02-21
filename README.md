@@ -40,6 +40,7 @@
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg" alt="python" width="50" height="50"/>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242677/Github/R.jpg" alt="R" width="60" height="50"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1675415692/GitHub/MYSQL_amf6vt.png" alt="mysql" width="50" height="50"/> </a>
 <a href="https://www.microsoft.com/en-in/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242678/Github/Power%20BI.png" alt="Power BI" width="50" height="50"/> </a> 
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242678/Github/Tableau.jpg" alt="Tableau" width="60" height="60"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242678/Github/Meachine%20Learning.png" alt="Meachine learning" width="60" height="60"/> </a>
