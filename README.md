@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm RAMA GOPALA KRISHNA </h1>
 
 <h3 align="center">A passionate DATA ANALYTICS  from India</h3>
-<img align="right" alt="coding" width="300" src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708335810/Github/animated.gif">
+<img align="right" alt="coding" width="300" src="https://res.cloudinary.com/dgwuwwqom/video/upload/v1710064732/Github/gif.mp4">
 
 
 
