@@ -13,7 +13,7 @@
 
 
 
-• 🔭 I’m currently working on <b>Business Analyst,</b> <br/>
+• 🔭 I’m currently working on <b>Data Analyst,</b> <br/>
 
 • 👯 I’m looking to collaborate on cool project.<br/>
 
