@@ -60,7 +60,8 @@
 <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242678/Github/Scipy.png" alt="Scipy" width="150" height="60"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242678/Github/Seaborn.webp" alt="Seaborn" width="60" height="60"/> </a>
 <a href="https://www.epa.gov/caddis-vol4/exploratory-data-analysis" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708255167/Github/EDA.png" alt="EDA" width="150" height="60"/> </a>
-
+<a href="https://www.tensorflow.org/api_docs" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1730770573/Github/project%20photos/Tensorflow.png" alt="Tensorflow" width="60" height="60"/> </a>
+<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1730770847/Github/project%20photos/Keras.png" alt="Keras" width="60" height="60"/> </a>
 </p>
 
 
